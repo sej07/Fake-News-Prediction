@@ -36,7 +36,9 @@ _This project aims to classify news articles as **real** or **fake** using Logis
 #### Results
 Train Accuracy: 0.986
 Test Accuracy: 0.977
+
 ![Screenshot 2025-07-07 202453](https://github.com/user-attachments/assets/5ecd61d3-1103-4d98-ab29-4f3294dde641)
+
 ![Screenshot 2025-07-07 202500](https://github.com/user-attachments/assets/5a9da63f-b798-4806-ab88-7f04fffba9aa)
 
 #### What I Learned
